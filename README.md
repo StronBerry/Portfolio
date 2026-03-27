@@ -1,72 +1,203 @@
 # QA Portfolio — Sergey Malinin
 
-Junior QA Engineer (Manual / API / UI Automation)
+## 🇷🇺 Описание (English below)
 
-Практическое портфолио с примерами ручного и автоматизированного тестирования веб-проектов, тестовой документации и работы с данными.
+Этот репозиторий содержит примеры моих практических работ в области тестирования web и backend систем.
 
----
-
-## Ключевые навыки
-- Manual testing (Web)
-- API testing
-- UI automation
-- Подготовка тестовой документации
-- Анализ требований и дефектов
-- Работа с тестовыми данными (JSON)
+Включает реальные проекты, тестовую документацию, API-тестирование и базовую автоматизацию.
 
 ---
 
-## Проекты
+## 📂 Проекты
 
-### 🔹 GrandChoir — Web Testing
-**Тип:** Manual testing  
+### 🔹 Skyrexio
 
-**Что сделано:**
-- анализ требований (ТЗ);
-- подготовка чек-листов и тест-кейсов (Desktop / Mobile);
-- проведение ручного тестирования;
-- регистрация и документирование дефектов.
+Торговая AI-платформа (криптотрейдинг)
 
-**Оформление баг-репортов:**
-Каждый баг-репорт содержит:
-- описание дефекта;
-- среду выполнения (OS, браузер);
-- severity / priority;
-- шаги воспроизведения;
-- ожидаемый и фактический результат;
-- подтверждающие скриншоты.
----
+- Тестирование UI и backend сложных пользовательских и торговых сценариев
+- Анализ логов и инцидентов (Kibana)
+- Проверка API и данных (Postman, JSON)
+- Работа с event-driven логикой (Kafka)
+- Локализация дефектов и взаимодействие с разработчиками
 
-📁 `Grandchoir.ru/`
+👉 Фокус: **complex systems, backend logic, production issues**
 
 ---
 
-### 🔹 YK.com — Manual + UI Automation
-**Тип:** Manual + Automation  
+### 🔹 Grandchoir.ru
 
-**Что сделано:**
-- тестовая документация (чек-листы, тест-кейсы);
-- классификация тестов по приоритету;
-- автотесты с использованием Page Object Model;
-- UI-тестирование и проверки валидации форм.
+Web-проект
 
-📁 `YK.com/`
+- Функциональное тестирование пользовательских сценариев
+- UI и кросс-браузерное тестирование
+- Проверка отображения и взаимодействия элементов
 
----
-
-### 🔹 JSON_PY — Data Handling
-**Тип:** Python / JSON  
-
-**Что сделано:**
-- чтение и запись JSON-файлов;
-- работа с вложенными структурами данных;
-- подготовка и использование тестовых данных.
-
-📁 `JSON_PY/`
+👉 Фокус: **UI / UX и стабильность web-интерфейса**
 
 ---
 
-## Технологический стек
-- **Тестирование:** Manual testing, API testing  
-- **Автоматизация:** Python, Pytest, Selenium  
-- **API:** Postman
+### 🔹 YK.com
+
+Web-приложение
+
+- Разработка тест-кейсов и чек-листов
+- Функциональное тестирование
+- Поиск и оформление дефектов
+
+👉 Фокус: **test design и базовые QA-процессы**
+
+---
+
+### 🔹 Postman Collection
+
+Тестирование REST API
+
+- Коллекции запросов
+- Проверка эндпоинтов
+- Работа с JSON и базовые автопроверки
+
+👉 Фокус: **API testing**
+
+---
+
+### 🔹 JSON_PY
+
+Работа с данными и автоматизация
+
+- Обработка JSON
+- Базовые скрипты на Python
+- Подготовка к автоматизации тестирования
+
+👉 Фокус: **automation basics**
+
+---
+
+## 🧠 Навыки
+
+- Ручное тестирование (Functional, Regression, UI)
+- REST API тестирование (Postman, JSON)
+- Анализ логов и локализация дефектов
+- SQL (базовые запросы)
+- Тест-дизайн (test cases, checklists, bug reports)
+- Основы автоматизации (Python, Pytest, Selenium)
+
+---
+
+## ⚙️ Инструменты
+
+- Postman
+- Jira / TestRail
+- Swagger / OpenAPI
+- Kibana
+- Chrome DevTools
+- Git
+
+---
+
+## 📌 О себе
+
+QA Engineer с коммерческим опытом тестирования web и backend систем.  
+Работаю с логами, API и сложными сценариями, умею находить причины дефектов и анализировать поведение системы.
+
+---
+
+---
+
+## 🇬🇧 Description
+
+This repository contains examples of my practical work in testing web and backend systems.
+
+It includes real projects, test documentation, API testing, and basic automation.
+
+---
+
+## 📂 Projects
+
+### 🔹 Skyrexio
+
+AI trading platform (crypto)
+
+- UI and backend testing of complex scenarios
+- Log and incident analysis (Kibana)
+- API and data validation (Postman, JSON)
+- Event-driven system testing (Kafka)
+- Defect localization and collaboration with developers
+
+👉 Focus: **complex systems and backend logic**
+
+---
+
+### 🔹 Grandchoir.ru
+
+Web project
+
+- Functional testing of user flows
+- UI and cross-browser testing
+- Validation of layout and interactions
+
+👉 Focus: **UI / UX quality**
+
+---
+
+### 🔹 YK.com
+
+Web application
+
+- Test case and checklist design
+- Functional testing
+- Bug reporting
+
+👉 Focus: **test design and QA fundamentals**
+
+---
+
+### 🔹 Postman Collection
+
+REST API testing
+
+- Request collections
+- Endpoint validation
+- JSON handling and basic scripts
+
+👉 Focus: **API testing**
+
+---
+
+### 🔹 JSON_PY
+
+Data handling and automation basics
+
+- JSON processing
+- Python scripts
+- Automation fundamentals
+
+👉 Focus: **automation basics**
+
+---
+
+## 🧠 Skills
+
+- Manual testing (Functional, UI, Regression)
+- REST API testing (Postman, JSON)
+- Log analysis and defect investigation
+- SQL (basic queries)
+- Test design
+- Basic automation (Python, Pytest, Selenium)
+
+---
+
+## ⚙️ Tools
+
+- Postman
+- Jira / TestRail
+- Swagger / OpenAPI
+- Kibana
+- Chrome DevTools
+- Git
+
+---
+
+## 📌 About Me
+
+QA Engineer with commercial experience in web and backend testing.  
+Focused on system behavior analysis, root cause investigation, and product quality improvement.
